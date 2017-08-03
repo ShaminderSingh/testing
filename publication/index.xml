@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on S. Singh</title>
+    <link>https://ShaminderSingh.github.io/publication/</link>
+    <description>Recent content in Publications on S. Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shaminder Singh</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ethno-Cultural Considerations in Cardiac Patients’ Medication Adherence</title>
+      <link>https://ShaminderSingh.github.io/publication/med-adh/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaminderSingh.github.io/publication/med-adh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of ethnicity and gender on navigating an acute coronary syndrome event</title>
+      <link>https://ShaminderSingh.github.io/publication/acs-grounded-theory/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaminderSingh.github.io/publication/acs-grounded-theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

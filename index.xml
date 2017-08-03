@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Singh on S. Singh</title>
+    <link>https://ShaminderSingh.github.io/</link>
+    <description>Recent content in S. Singh on S. Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shaminder Singh</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Poster presentation</title>
+      <link>https://ShaminderSingh.github.io/talk/casch-2017/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaminderSingh.github.io/talk/casch-2017/</guid>
+      <description>&lt;p&gt;Poster is coming soon…&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethno-Cultural Considerations in Cardiac Patients’ Medication Adherence</title>
+      <link>https://ShaminderSingh.github.io/publication/med-adh/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaminderSingh.github.io/publication/med-adh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of ethnicity and gender on navigating an acute coronary syndrome event</title>
+      <link>https://ShaminderSingh.github.io/publication/acs-grounded-theory/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaminderSingh.github.io/publication/acs-grounded-theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
